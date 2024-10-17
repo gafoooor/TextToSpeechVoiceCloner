@@ -47,3 +47,10 @@ The application will provide real-time feedback on the cloned voice with the fol
 
 - Tacotron 2
 - WaveNet
+- SV2TTS
+
+### Output
+
+![WhatsApp Image 2024-10-17 at 09 12 14_426563e7](https://github.com/user-attachments/assets/844a6beb-0fa6-4962-877f-685d86544209)
+![WhatsApp Image 2024-10-17 at 09 13 34_937cc1ef](https://github.com/user-attachments/assets/934c4c46-3d47-4090-b68f-47941bc717be)
+
